@@ -15,6 +15,9 @@ Training CLassifier to achieve ideal performance using different methods and nor
 Analyzing performance and determine optimal methodology. <br/>
 Comparing own implimentation against sklearn <br/>
 #### Multi-Layer Perceptron
+Splitting data and then further balancing it so that the classes are equally stratified. <br/>
+Normalizing and One-hot encoding the data and comparing cost to epochs<br/>
+Creating a multiple layer perceptron 
 ## Flipped Lectures
 #### ICA2
 Creating a Feedforward Network in Python. <br/>
